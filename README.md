@@ -192,4 +192,4 @@ This repository serves as the official landing page for Abdio PDF Reader. The so
 **Get the most recent version of Abdio PDF Reader today!**
 
 ---
-**Last updated:** 2026-11-08 16:31:00 UTC
+**Last updated:** 2026-11-08 20:58:02 UTC
